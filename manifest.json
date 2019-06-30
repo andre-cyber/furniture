@@ -1,0 +1,26 @@
+{
+  "name": "trembesi.net",
+  "short_name": "AndreTrembesi",
+  "start_url": "https://www.trembesi.net/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Jual furniture trembesi kayu besar utuh tanpa sambung, meja kayu besar tanpa sambung dari bahan trembesi.",
+  "icons": [{
+    "src": "https://2.bp.blogspot.com/-CgD4m7pAKpo/W5jJ3qkUd3I/AAAAAAAAMkE/TXMR7bzh_YQm04qbLhAkc6m-H-mQLCqdACLcBGAs/s32/favicon-32x32.png",
+    "sizes": "32x32",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0DcRk31_0TE/W5jJ4bNMnaI/AAAAAAAAMkM/v8WFWTwVi3AnXK_sT5Caj7lDc0PSuoN7gCLcBGAs/s192/android-icon-196x196.png",
+    "sizes": "196x196",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0DcRk31_0TE/W5jJ4bNMnaI/AAAAAAAAMkM/v8WFWTwVi3AnXK_sT5Caj7lDc0PSuoN7gCLcBGAs/s180/apple-icon-180x180.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-0DcRk31_0TE/W5jJ4bNMnaI/AAAAAAAAMkM/v8WFWTwVi3AnXK_sT5Caj7lDc0PSuoN7gCLcBGAs/s144/ms-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }]
+}
